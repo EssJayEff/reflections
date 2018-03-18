@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 	Because you are telling git to track files, but you havenm't said what files to track.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+		The staging area contains files that you are are intending to add to the repo. The wd contains these and other files which you may not be tracking. It also allows you to add files when they are at a sensible point.
+		
