@@ -1,0 +1,34 @@
+Notes on Udacity Git Course
+
+On Windows there is the FC command - navigate to directory then type FC file-1 file-2
+
+Or you can use Git Bash if Git is installed and use Diff - format Diff -u file-1 file-2
+
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+		It meant I only had to look at the lines that were different rather than all of them
+		
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	Because you can look back to see what functionality was and wasn't in place at any time.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+	It means each version represents a logical step in the develpment of the app or document
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?	
+
+	Because VCS like Git are designed for source code where files often have a much greater dependency on each other than in say a series of blog posts.
+
+How can you use the commands git log and git diff to view the history of files?
+
+	Git Log shows you the history of commits - essentially the roadmap to date. Git Diff shows the deatail difference between two commits
+
+How might using version control make you more confident to make changes that could break something?
+
+	Because you know you could always revert to a previous version
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	Version Control on apps etc	

@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Because you are telling git to track files, but you havenm't said what files to track.
