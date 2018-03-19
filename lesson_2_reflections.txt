@@ -6,3 +6,10 @@ How is the staging area different from the working directory and the repository?
 
 		The staging area contains files that you are are intending to add to the repo. The wd contains these and other files which you may not be tracking. It also allows you to add files when they are at a sensible point.
 		
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Onbly copy files to teh staging area that are part of that logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Have two or more modes of development going on but still keep a stable version too
