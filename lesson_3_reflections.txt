@@ -15,4 +15,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
 	It means you can compare with the last kjnown remote even when offline.
 
-			
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	Using email or locking a file to one person. It would be easier but more pronbe to errors. It would be harder without an audit trail of changes and who made them.
+	
