@@ -6,3 +6,13 @@ local?
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 	For the same reason you have full control over commits. The last thing you would want is your local datbase being overwriten by something that someone eles has done and uploaded to the remote. 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+		Fork is basically copying within Github but with a few added niceties so you can see who forked it and teh like. But it doesn't maintain any code link between the two. Clone is copying from one repo to another but maintaining a link - ie git will tell you what changes are in one but not the other.  Branching is creating aseperate dev path - either permanently or temporary - in teh latter case it will get discarded or merged back at some point.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	It means you can compare with the last kjnown remote even when offline.
+
+			
