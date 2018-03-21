@@ -18,4 +18,8 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 	Using email or locking a file to one person. It would be easier but more pronbe to errors. It would be harder without an audit trail of changes and who made them.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	It means you can develop your feature without altering the master until you are ready. It also menas others can do teh same, so you could have 5 different features being developed by 5 different people at the same time and each can be added back into master when it is ready.	
 	
